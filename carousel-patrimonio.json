@@ -1,0 +1,101 @@
+[
+  {
+    "image": "images/alta/alta-arena-mexico/01.jpg",
+    "title": "ARENA MEXICO",
+    "description": "La Catedral de la Lucha Libre\", construida en 1956 y sede del boxeo olímpico de México 68. En 2014, coordiné su levantamiento para convertir sus asientos en un mapa digital para su elección en venta online — patrimonio [en transición] popular, al servicio del comercio electrónico. El levantamiento se ejecutó en días sin funciones al público, y con metódos tradicionales.",
+    "year": "2014",
+    "location": "Ciudad de México"
+  },
+  {
+    "image": "images/alta/alta-levantamiento-de-interiores-comerciales-boutiques-de-lujo/01.jpg",
+    "title": "Levantamiento de Interiores Comerciales — Boutiques de Lujo",
+    "description": "Desarrollé e implementé los procesos de levantamiento topográfico de gran detalle para locales comerciales destinados a boutiques de marcas de lujo internacional, con control de calidad tan sólido que pudimos remplazar el LiDAR. Un servicio que mis clientes siguen prefiriendo hoy. 2015.",
+    "year": "2015",
+    "location": "Ciudad de México"
+  },
+  {
+    "image": "images/patrimonio/patrimonio-centro-escolar-belisario-dominguez/01.jpg",
+    "title": "Centro Escolar Belisario Domínguez",
+    "description": "Documentar el Centro Escolar Belisario Domínguez, mi caso de estudio de maestría, me tomó meses de negociación con toda la cadena de autoridades educativas de la Ciudad de México, tras un primer rechazo. Con solo tres horas diarias de acceso, planifiqué TLS y vuelos con dron para completar el levantamiento de este inmueble con declaratoria del INBAL, inaugurado en 1923 por Vasconcelos y decorado con murales de Carlos Mérida, en apenas 10 días hábiles.",
+    "year": "2023",
+    "location": "Ciudad de México"
+  },
+  {
+    "image": "images/patrimonio/patrimonio-casa-en-polanco-casa-e-castelar/01.jpg",
+    "title": "Casa en Polanco (Casa E. Castelar)",
+    "description": "Levantamiento LiDAR/TLS de una residencia en Polanco atribuida al arquitecto Francisco Serrano, para un equipo de diseño en Italia que trabajó a distancia sin pisar el sitio. Además de capturar cantería, talla de madera y herrería con alta fidelidad, resolví la integración de los entregables a su flujo en Rhino y entregué planos CAD como requisito del mercado mexicano.",
+    "year": "2025",
+    "location": "Ciudad de México"
+  },
+  {
+    "image": "images/patrimonio/patrimonio-ex-teresa-arte-actual/01.jpg",
+    "title": "Ex Teresa Arte Actual",
+    "description": "Levantamos con LiDAR el Extemplo de Santa Teresa, hoy Ex Teresa Arte Actual, operando solo en los días de cierre del museo. La baja iluminación y los desniveles nos llevaron a documentar tiempos de captura TLS como experimento propio — datos publicados en *Revista Arquitectura+* (2023).",
+    "year": "2023",
+    "location": ""
+  },
+  {
+    "image": "images/patrimonio/patrimonio-kiosco-morisco-santa-maria-la-ribera/01.jpg",
+    "title": "Kiosco Morisco, Santa María la Ribera",
+    "description": "Documenté con vuelos fotogramétricos el Kiosco Morisco de Santa María la Ribera, generando un modelo 3D completo como parte de mis pruebas de captura. Una estructura de hierro que representó a México en tres exposiciones universales (Nueva Orleans, París, San Luis) antes de instalarse aquí en 1910 — el sujeto ideal para poner a prueba cualquier metodología.",
+    "year": "2024",
+    "location": "Ciudad de México"
+  },
+  {
+    "image": "images/patrimonio/patrimonio-iglesia-de-loreto/01.jpg",
+    "title": "Iglesia de Loreto",
+    "description": "Apoyé con vuelos de dron la documentación de avance de obra en la restauración de la Iglesia de Loreto — templo neoclásico de principios del XIX, famoso por su pronunciado hundimiento diferencial. 2025.",
+    "year": "2025",
+    "location": "Ciudad de México"
+  },
+  {
+    "image": "images/patrimonio/patrimonio-arcada-panteon-frances-de-san-joaquin/01.jpg",
+    "title": "Arcada, Panteón Francés de San Joaquín",
+    "description": "Registramos con LiDAR (TLS) una arcada dentro del Panteón Francés de San Joaquín, con un solo día autorizado para el levantamiento. A mitad de la jornada tuvimos que reiniciar el registro desde cero por causas ajenas al equipo — completamos la misión de todos modos, mientras alternaba como piloto de los vuelos fotogramétricos. Los vestigios delimitan un aljibe histórico.",
+    "year": "2023",
+    "location": ""
+  },
+  {
+    "image": "images/patrimonio/patrimonio-puente-de-tecajec-morelos/01.jpg",
+    "title": "Puente de Tecajec, Morelos",
+    "description": "En 2024 documenté el puente de Tecajec, en Yecapixtla, Morelos — vestigio de un Camino Real virreinal que conectaba con Oaxaca vía Izúcar y Huajuapan de León, y severamente dañado por los sismos de 2017.",
+    "year": "2024",
+    "location": "Oaxaca"
+  },
+  {
+    "image": "images/patrimonio/patrimonio-castillo-de-chapultepec/01.jpg",
+    "title": "Castillo de Chapultepec",
+    "description": "Lo que empezó como un encargo corto para registrar una pequeña parte del Castillo de Chapultepec, tras conversaciones con el museo, se convirtió en el registro completo del inmueble: TLS reforzado con SLAM, y vuelos de dron que piloteé en solitario, todo ejecutado en los cierres del museo al público, sin interrumpir uno de los recintos más visitados de México.",
+    "year": "2026",
+    "location": ""
+  },
+  {
+    "image": "images/patrimonio/patrimonio-catedral-metropolitana/01.jpg",
+    "title": "Catedral Metropolitana",
+    "description": "Por invitación personal de las encargadas del recinto, vía INAH, levanté una de sus Capilla, la Pinacoteca, los exteriores, la torre poniente y una zona confidencial de la Catedral Metropolitana. Al operar en horario abierto al público, la opción elegida fue el SLAM.",
+    "year": "2026",
+    "location": ""
+  },
+  {
+    "image": "images/patrimonio/patrimonio-colegio-del-sagrado-corazon-san-luis-potosi/01.jpg",
+    "title": "Colegio del Sagrado Corazón, San Luis Potosí",
+    "description": "Levantamos la fachada sur del Colegio del Sagrado Corazón, sobre Mariano Arista, en el Centro Histórico de San Luis Potosí (Patrimonio Mundial UNESCO). Con topografía tradicional revisé verticalidad y asentamientos diferenciales para su intervención, complementado con vuelo fotogramétrico. 2021.",
+    "year": "2021",
+    "location": "San Luis Potosí"
+  },
+
+  {
+    "image": "images/infraestructura/infraestructura-nave-industrial/01.jpg",
+    "title": "Nave Industrial",
+    "description": "Levantamiento A.L.T.A. y georreferenciación de una nave industrial, para una firma extranjera de real estate con sede en México. Topografía, comparativa de escrituras y escaneo TLS referenciado a UTM — due diligence inmobiliario a escala industrial.Topografía, comparativa de escrituras y escaneo TLS referenciado a UTM.",
+    "year": "2024",
+    "location": ""
+  },
+  {
+    "image": "images/infraestructura/infraestructura-conexion-perisur-artz-pedregal/01.jpg",
+    "title": "Conexión Perisur–Artz Pedregal",
+    "description": "Ejecutamos el levantamiento vial de 5 km entre Perisur y Artz Pedregal, en plena expansión inmobiliaria del sur de la CDMX, con apoyo GNSS y atención detallada a cada árbol, área verde, ancho de vialidad y nivel. 2017.",
+    "year": "2017",
+    "location": "Ciudad de México"
+  }
+]
